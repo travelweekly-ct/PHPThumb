@@ -1,5 +1,7 @@
 [![Build Status](https://secure.travis-ci.org/masterexploder/PHPThumb.png?branch=master)](http://travis-ci.org/masterexploder/PHPThumb)
 
+*update to php 7.2*
+
 # PHP Thumb
 
 ## NOTICE -
