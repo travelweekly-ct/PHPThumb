@@ -38,14 +38,14 @@ class GD extends PHPThumb
      *
      * @var array
      */
-    protected $currentDimensions;
+    protected $currentDimensions = [];
 
     /**
      * The new, calculated dimensions of the image
      *
      * @var array
      */
-    protected $newDimensions;
+    protected $newDimensions = [];
 
     /**
      * The options for this class
@@ -56,7 +56,7 @@ class GD extends PHPThumb
      *
      * @var array
      */
-    protected $options;
+    protected $options = [];
 
     /**
      * The maximum width an image can be after resizing (in pixels)
